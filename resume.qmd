@@ -1,0 +1,56 @@
+---
+title: "Resume – Abhilash"
+---
+![](assets/UCW_LOGO.jpg){width=120px align="right"}
+
+# Abhilash – MBA Portfolio Resume
+
+## Contact Information
+- 📧 Email: Abhilash@email.com
+- 🔗 LinkedIn: [linkedin.com/in/abhilash](https://linkedin.com/in/abhilash)
+- 💻 GitHub: [https://github.com/myMBA-design](https://github.com/myMBA-design)
+
+---
+
+## Education
+**University Canada West (UCW)**  
+MBA, Business Analytics – *Current*  
+
+**University Canada West (UCW)**  
+BSc, Business Management – 2023  
+
+---
+
+## Professional Experience
+
+**AI Strategy Intern – FutureTech AI Solutions** *(Summer 2025)*  
+- Built predictive models in Python (scikit-learn) to improve customer segmentation.  
+- Collaborated on chatbot deployment, improving customer support efficiency by 30%.  
+
+**Data Analyst – BrightSpark Retail** *(2022–2024)*  
+- Automated reporting processes using SQL and Power BI.  
+- Conducted trend analysis and strategic recommendations, increasing ROI by 12%.  
+
+---
+
+## Projects
+
+- **Customer Segmentation ML Model** – Applied supervised learning to classify customer groups.  
+- **Retail Analytics Dashboard** – Designed an interactive Power BI dashboard for executive decision-making.  
+- **Case Competition – UCW 2025** – Presented AI-driven expansion strategies for an international brand.  
+
+---
+
+## Skills
+
+- **Data Analytics Tools:** Python, SQL, Power BI, Tableau  
+- **AI/ML Tools:** scikit-learn, GPT APIs  
+- **Business Tools:** Excel modeling, Strategic Planning, Business Communication  
+
+---
+
+## Certifications
+- Google Data Analytics Certificate (2024)  
+- AWS Cloud Practitioner (2025)  
+
+[Download my full resume (PDF)](assets/Abhilash_Resume.pdf)

@@ -1,0 +1,50 @@
+---
+title: "Projects"
+---
+
+# My Projects & Case Studies
+
+## Customer Segmentation with Machine Learning
+During my internship at FutureTech AI Solutions, I developed a predictive model to segment customers based on their demographics and purchasing behaviors. The project involved applying **K-means clustering**, an unsupervised machine learning algorithm, to group customers into clusters with similar characteristics. 
+
+For example, clusters were identified based on **age, annual income, and spending score**, enabling the business to design more personalized marketing strategies. By analyzing these segments, the marketing team was able to target promotions more effectively, leading to a measurable improvement in customer retention.
+
+### About K-means Clustering
+K-means clustering works by dividing data into *k* clusters, where each data point belongs to the cluster with the nearest centroid (average position). The algorithm follows these steps:  
+1. Select the number of clusters (*k*).  
+2. Randomly initialize centroids from the dataset.  
+3. Assign each data point to the nearest centroid.  
+4. Update centroids by recalculating the mean of assigned points.  
+5. Repeat until centroids stabilize and cluster assignments stop changing.  
+
+This iterative process ensures that customers are grouped into meaningful, data-driven clusters that can be acted upon by business leaders (Project Gurukul, 2023).  
+
+Here is a simple visualization of the clustering process:
+![](assets/k_means.jpg){width=80% alt="Visualization of K-means clustering for customer segmentation"}
+
+[https://projectgurukul.org/customer-segmentation-project-machine-learning/](https://projectgurukul.org/customer-segmentation-project-machine-learning/)
+
+---
+
+## Retail Analytics Dashboard
+At **BrightSpark Retail**, I designed and implemented an **interactive Power BI dashboard** that consolidated sales and inventory data from five regional stores into a single, dynamic view. This dashboard helped leadership monitor KPIs such as sales performance, stock levels, and regional comparisons in near real-time. By automating previously manual reporting processes, the dashboard reduced inefficiencies and improved the timeliness of decision-making.
+
+### About Power BI Dashboards
+According to Microsoft (2024), a **Power BI dashboard** is a single-page canvas that tells a data story through visualizations, often called tiles. Each tile represents a visualization pinned from a report, and users can click through tiles to explore deeper insights. Unlike full reports, dashboards are designed to highlight only the most important information, enabling decision-makers to quickly grasp key performance trends.  
+
+This design philosophy influenced my project: I prioritized clarity and brevity by selecting only the most actionable metrics. For example, store managers could see **sales by region**, **top-selling products**, and **low-inventory alerts** at a glance, with the option to drill down into detailed reports when needed (Microsoft, 2024).  
+
+Here is an example visualization of a Power BI dashboard layout:
+
+![](assets/power-bi-dashboard.png){width=80% alt="Example of a Power BI Dashboard with sales and inventory KPIs"}
+ [https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards)
+
+---
+
+## UCW 2025 Case Competition
+As part of a finalist team, I designed an AI-driven expansion strategy for a multinational retailer entering new markets. My role included analyzing supply chain constraints and simulating demand forecasts with machine learning models. The experience sharpened my teamwork and presentation skills.
+
+---
+
+## Independent Research: AI in Business Strategy
+In BUSI 654, I did a research paper on the adoption of generative AI tools in corporate strategy. The paper explored how organizations can balance innovation with ethical considerations, a topic I plan to expand on for future academic or industry publication.

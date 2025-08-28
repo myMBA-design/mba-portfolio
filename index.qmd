@@ -1,41 +1,12 @@
----
-title: "Abhilash - MBA Portfolio"
-format: html
-theme: flatly
----
+![](assets/UCW_LOGO.jpg){width=120px align="right"}
 
 # About Me
 
-I’m an MBA candidate specializing in Business Analytics at University Canada West. My academic journey is grounded in the strategic use of AI and data for business transformation. I'm passionate about applying machine learning to solve complex business problems.
+I’m Abhilash, an MBA candidate at **University Canada West (UCW)** specializing in **Business Analytics**.  
+My academic journey is focused on leveraging **artificial intelligence (AI)** and **data-driven insights** to solve complex business challenges. Through my coursework in *BUSI 654 – Application of AI in Business* and related electives, I have developed a strong foundation in areas such as machine learning, predictive analytics, and digital transformation.
 
-# Education
+My professional interests lie at the intersection of **AI applications in business, strategic decision-making, and organizational innovation**. I am especially interested in investigating the potential of advanced analytics and emerging artificial intelligence technologies, including GPT-driven assistants and automation platforms, to enhance customer experiences, optimize operations and contribute to businesses across industries their sustainable growth.
 
-**University Canada West (UCW)**  
-MBA in Business Analytics – *Current*  
+I have used my abilities in internships and as an employee, which is beyond academics. Indicatively, as an intern at FutureTech AI Solutions, I participated in the deployment of chatbots and customer segmentation projects where I could observe how AI technologies can alter customer interaction. These experiences supported my interests in formulating strategies that incorporate technical abilities and real business requirements to the world.
 
-**University Canada West (UCW)**  
-BSc, Business Management – 2023  
-
-# Experience
-
-**AI Strategy Intern**  
-FutureTech AI Solutions | Summer 2025  
-- Built predictive models to enhance customer segmentation using Python and Scikit-learn  
-- Collaborated on chatbot deployment to improve customer support efficiency by 30%
-
-**Data Analyst**  
-BrightSpark Retail | 2022–2024  
-- Automated reporting processes using SQL and Power BI  
-- Analyzed sales trends and recommended strategies, increasing ROI by 12%
-
-# Key Skills
-
-- Data Analytics (Python, SQL, Power BI)  
-- AI/ML Tools (scikit-learn, GPT APIs)  
-- Business Strategy & Communication  
-- Tableau & Excel Modeling
-
-# Contact
-
-📧 Abhilash@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/Abhilash)
+This website is a  **comprehensive digital portfolio** that presents my academic achievements, my professional background, and my choice of projects. It is an expression of what I have learned so far and where I want to go as I go through my MBA program. I would be glad to see you visit my piece and check my projects and get in touch with me regarding possible cooperation or professional activities.

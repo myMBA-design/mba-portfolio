@@ -7,32 +7,11 @@
     "text": "About Me\nI’m Abhilash, an MBA candidate at University Canada West (UCW) specializing in Business Analytics.\nMy academic journey is focused on leveraging artificial intelligence (AI) and data-driven insights to solve complex business challenges. Through my coursework in BUSI 654 – Application of AI in Business and related electives, I have developed a strong foundation in areas such as machine learning, predictive analytics, and digital transformation.\nMy professional interests lie at the intersection of AI applications in business, strategic decision-making, and organizational innovation. I am especially interested in investigating the potential of advanced analytics and emerging artificial intelligence technologies, including GPT-driven assistants and automation platforms, to enhance customer experiences, optimize operations and contribute to businesses across industries their sustainable growth.\nI have used my abilities in internships and as an employee, which is beyond academics. Indicatively, as an intern at FutureTech AI Solutions, I participated in the deployment of chatbots and customer segmentation projects where I could observe how AI technologies can alter customer interaction. These experiences supported my interests in formulating strategies that incorporate technical abilities and real business requirements to the world.\nThis website is a comprehensive digital portfolio that presents my academic achievements, my professional background, and my choice of projects. It is an expression of what I have learned so far and where I want to go as I go through my MBA program. I would be glad to see you visit my piece and check my projects and get in touch with me regarding possible cooperation or professional activities."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Thank you for exploring my MBA portfolio. I am always open to discussing opportunities for collaboration, professional development, and applied projects in the field of business analytics and AI strategy.\n📧 Email: Abhilash@email.com\n🔗 LinkedIn: linkedin.com/in/abhilash\n💻 GitHub: github.com/myMBA-design\n\n\n\n📄 Download my full resume (PDF)\n\n\n\n\nI am currently based in Vancouver, Canada, and available for both in-person and remote opportunities.\n\n\nPlease feel free to reach out — I look forward to connecting!"
-  },
-  {
-    "objectID": "contact.html#resume",
-    "href": "contact.html#resume",
-    "title": "Contact",
-    "section": "",
-    "text": "📄 Download my full resume (PDF)"
-  },
-  {
-    "objectID": "contact.html#location",
-    "href": "contact.html#location",
-    "title": "Contact",
-    "section": "",
-    "text": "I am currently based in Vancouver, Canada, and available for both in-person and remote opportunities.\n\n\nPlease feel free to reach out — I look forward to connecting!"
+    "text": "Programming & Analytics: Python (pandas, NumPy, scikit-learn), SQL, R\n\nData Visualization: Power BI, Tableau, Matplotlib\n\nMachine Learning: Supervised/Unsupervised learning, NLP, Generative AI tools (GPT APIs)\n\nProductivity Tools: Excel Modeling, Jupyter Notebooks, GitHub\n\n\n\n\n\nStrategic Planning & Market Analysis\n\nBusiness Communication & Presentation\n\nProject Management (Agile methodologies)\n\nLeadership in Cross-Functional Teams\n\n\n\n\n\nGoogle Data Analytics Certificate (2024)\n\nAWS Cloud Practitioner (2025)\n\nTableau Desktop Specialist (expected 2026)\n\nThese skills reflect a balance between technical expertise in analytics and the strategic acumen required to apply AI-driven insights to business challenges."
   },
   {
     "objectID": "projects.html",
@@ -56,25 +35,25 @@
     "text": "At BrightSpark Retail, I designed and implemented an interactive Power BI dashboard that consolidated sales and inventory data from five regional stores into a single, dynamic view. This dashboard helped leadership monitor KPIs such as sales performance, stock levels, and regional comparisons in near real-time. By automating previously manual reporting processes, the dashboard reduced inefficiencies and improved the timeliness of decision-making.\n\n\nAccording to Microsoft (2024), a Power BI dashboard is a single-page canvas that tells a data story through visualizations, often called tiles. Each tile represents a visualization pinned from a report, and users can click through tiles to explore deeper insights. Unlike full reports, dashboards are designed to highlight only the most important information, enabling decision-makers to quickly grasp key performance trends.\nThis design philosophy influenced my project: I prioritized clarity and brevity by selecting only the most actionable metrics. For example, store managers could see sales by region, top-selling products, and low-inventory alerts at a glance, with the option to drill down into detailed reports when needed (Microsoft, 2024).\nHere is an example visualization of a Power BI dashboard layout:\n https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards"
   },
   {
-    "objectID": "projects.html#ucw-2025-case-competition",
-    "href": "projects.html#ucw-2025-case-competition",
+    "objectID": "projects.html#case-competition-ucw-2025",
+    "href": "projects.html#case-competition-ucw-2025",
     "title": "Projects",
     "section": "",
-    "text": "As part of a finalist team, I designed an AI-driven expansion strategy for a multinational retailer entering new markets. My role included analyzing supply chain constraints and simulating demand forecasts with machine learning models. The experience sharpened my teamwork and presentation skills."
+    "text": "Developed strategic expansion plan for a multinational retailer using AI insights."
   },
   {
-    "objectID": "projects.html#independent-research-ai-in-business-strategy",
-    "href": "projects.html#independent-research-ai-in-business-strategy",
-    "title": "Projects",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "In BUSI 654, I did a research paper on the adoption of generative AI tools in corporate strategy. The paper explored how organizations can balance innovation with ethical considerations, a topic I plan to expand on for future academic or industry publication."
+    "text": "Thank you for exploring my MBA portfolio. I am always open to discussing opportunities for collaboration, professional development, and applied projects in the field of business analytics and AI strategy.\n📧 Email: Abhilash@email.com\n🔗 LinkedIn: linkedin.com/in/abhilash\n💻 GitHub: github.com/myMBA-design\n\n\n\n📄 Download my full resume (PDF)\n\n\n\n\nI am currently based in Vancouver, Canada, and available for both in-person and remote opportunities.\n\n\nPlease feel free to reach out — I look forward to connecting!"
   },
   {
-    "objectID": "resume.html#contact-information",
-    "href": "resume.html#contact-information",
-    "title": "Resume – Abhilash",
-    "section": "Contact Information",
-    "text": "Contact Information\n\n📧 Email: Abhilash@email.com\n🔗 LinkedIn: linkedin.com/in/abhilash\n💻 GitHub: https://github.com/myMBA-design"
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "University Canada West (UCW) – MBA, Business Analytics (Current)\n\nUCW – BSc, Business Management (2023)\n\n\n\n\n\nAI Strategy Intern – FutureTech AI Solutions (Summer 2025)\n\nData Analyst – BrightSpark Retail (2022–2024)\n\n📄 Download my full resume (PDF)"
   },
   {
     "objectID": "resume.html#education",
@@ -82,6 +61,20 @@
     "title": "Resume – Abhilash",
     "section": "Education",
     "text": "Education\nUniversity Canada West (UCW)\nMBA, Business Analytics – Current\nUniversity Canada West (UCW)\nBSc, Business Management – 2023"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "AI Strategy Intern – FutureTech AI Solutions (Summer 2025)\n\nData Analyst – BrightSpark Retail (2022–2024)\n\n📄 Download my full resume (PDF)"
+  },
+  {
+    "objectID": "resume.html#contact-information",
+    "href": "resume.html#contact-information",
+    "title": "Resume – Abhilash",
+    "section": "Contact Information",
+    "text": "Contact Information\n\n📧 Email: Abhilash@email.com\n🔗 LinkedIn: linkedin.com/in/abhilash\n💻 GitHub: https://github.com/myMBA-design"
   },
   {
     "objectID": "resume.html#professional-experience",
@@ -112,11 +105,18 @@
     "text": "Certifications\n\nGoogle Data Analytics Certificate (2024)\n\nAWS Cloud Practitioner (2025)\n\nDownload my full resume (PDF)"
   },
   {
-    "objectID": "skills.html",
-    "href": "skills.html",
-    "title": "Skills",
+    "objectID": "projects.html#ucw-2025-case-competition",
+    "href": "projects.html#ucw-2025-case-competition",
+    "title": "Projects",
     "section": "",
-    "text": "Programming & Analytics: Python (pandas, NumPy, scikit-learn), SQL, R\n\nData Visualization: Power BI, Tableau, Matplotlib\n\nMachine Learning: Supervised/Unsupervised learning, NLP, Generative AI tools (GPT APIs)\n\nProductivity Tools: Excel Modeling, Jupyter Notebooks, GitHub\n\n\n\n\n\nStrategic Planning & Market Analysis\n\nBusiness Communication & Presentation\n\nProject Management (Agile methodologies)\n\nLeadership in Cross-Functional Teams\n\n\n\n\n\nGoogle Data Analytics Certificate (2024)\n\nAWS Cloud Practitioner (2025)\n\nTableau Desktop Specialist (expected 2026)\n\nThese skills reflect a balance between technical expertise in analytics and the strategic acumen required to apply AI-driven insights to business challenges."
+    "text": "As part of a finalist team, I designed an AI-driven expansion strategy for a multinational retailer entering new markets. My role included analyzing supply chain constraints and simulating demand forecasts with machine learning models. The experience sharpened my teamwork and presentation skills."
+  },
+  {
+    "objectID": "projects.html#independent-research-ai-in-business-strategy",
+    "href": "projects.html#independent-research-ai-in-business-strategy",
+    "title": "Projects",
+    "section": "",
+    "text": "In BUSI 654, I did a research paper on the adoption of generative AI tools in corporate strategy. The paper explored how organizations can balance innovation with ethical considerations, a topic I plan to expand on for future academic or industry publication."
   },
   {
     "objectID": "skills.html#technical-skills",
@@ -138,5 +138,19 @@
     "title": "Skills",
     "section": "",
     "text": "Google Data Analytics Certificate (2024)\n\nAWS Cloud Practitioner (2025)\n\nTableau Desktop Specialist (expected 2026)\n\nThese skills reflect a balance between technical expertise in analytics and the strategic acumen required to apply AI-driven insights to business challenges."
+  },
+  {
+    "objectID": "contact.html#resume",
+    "href": "contact.html#resume",
+    "title": "Contact",
+    "section": "",
+    "text": "📄 Download my full resume (PDF)"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Contact",
+    "section": "",
+    "text": "I am currently based in Vancouver, Canada, and available for both in-person and remote opportunities.\n\n\nPlease feel free to reach out — I look forward to connecting!"
   }
 ]

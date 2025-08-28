@@ -1,61 +1,78 @@
+
 ---
-title: "Appendix – MBA Portfolio Assignment"
-author: Alex Morgan
+title: "Appendix – LLM Output and Revisions"
 format: pdf
 ---
 
-# 1. LLM Prompt Used
+# Appendix
 
-> "Create an outline and sample text for a one-page MBA student portfolio using Quarto and Markdown for a student in the 'Application of AI in Business' course at UCW."
+This appendix documents the outputs generated with a Large Language Model (ChatGPT) during the creation of my multi-page MBA portfolio website.  
+All AI-generated content is clearly identified, and my annotations explain how I revised and personalized it to ensure authenticity.  
 
-# 2. LLM-Generated Draft Output
+---
 
-## Outline:
+## LLM-Generated Site Map (Initial Draft)
 
-1. Title + Name  
-2. About/Bio  
-3. Education  
-4. Professional Experience  
-5. Projects (optional)  
-6. Skills  
-7. Contact Info  
+**ChatGPT Output:**  
+- Home/About  
+- Resume or CV  
+- Projects/Case Studies  
+- Skills & Certifications  
+- Contact  
 
-## Sample Markdown:
+**My Revision:**  
+I kept this overall structure but expanded the “Projects” page with detailed case studies and references. I also added UCW branding (logo, background image) and an embedded map to personalize the site.
 
-```
-# Jordan Lee - MBA Candidate
+---
 
-## About Me  
-I’m a results-driven MBA candidate at XYZ Business School with a background in marketing and a passion for data-informed decision making.
+## LLM-Generated About Me (Draft)
 
-## Education  
-**XYZ Business School**  
-MBA, Expected 2026  
+**ChatGPT Output (excerpt):**  
+“I’m Jordan Lee, an MBA candidate specializing in Business Analytics at University Canada West. My interests lie at the intersection of AI, strategy, and digital transformation.”
 
-**University of ABC**  
-BA in Communication, 2020
+**My Revision:**  
+I replaced the sample name “Jordan Lee” with my fictional identity “Abhilash” and expanded the section with my own academic journey, internship highlights, and specific UCW coursework. I also added a UCW Administration building background image for visual context.
 
-## Experience  
-**Growth Strategy Intern – ABC Tech**  
-- Developed go-to-market strategy projected to increase revenue by 15%  
-- Conducted market research on three customer segments
+---
 
-**Marketing Associate – DEF Goods**  
-- Led brand campaign, improving market share by 8%  
-- Managed cross-functional team
+## LLM-Generated Resume (Draft)
 
-## Skills  
-- Strategic Planning  
-- Tableau & Excel  
-- Business Development
+**ChatGPT Output:**  
+Provided a generic resume structure with placeholders for education, experience, skills, and certifications.  
 
-## Contact  
-📧 jordan.lee@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/jordanlee)
-```
+**My Revision:**  
+I filled in details from my fictional academic path (UCW BSc and MBA) and added realistic experiences (FutureTech AI Solutions internship, BrightSpark Retail analyst role). I also generated a downloadable PDF resume using Quarto and linked it on the site.
 
-# 3. Reflection & Commentary
+---
 
-I used ChatGPT to generate a structural outline and draft sample for my MBA portfolio assignment. This helped me brainstorm an efficient layout and content organization. I chose to keep the overall headings and general format but rewrote all the content using a fictional persona "Alex Morgan," an MBA student enrolled in BUSI 654.
+## LLM-Generated Projects Section (Draft)
 
-I modified company names, academic experiences, tools (like Power BI, GPT APIs), and tone to match a student working with AI applications in business. All content was checked for originality, tone, and accuracy. The Markdown formatting and Quarto rendering options were also adjusted for GitHub Pages compatibility.
+**ChatGPT Output:**  
+Suggested projects such as “Customer Segmentation with ML” and “Retail Analytics Dashboard” without details.  
+
+**My Revision:**  
+I expanded each project with:  
+- **Customer Segmentation:** Detailed use of K-means clustering, inserted image `k_means.jpg`, and cited the dataset source (Project Gurukul, 2023).  
+- **Retail Analytics Dashboard:** Added context on Power BI dashboard design and included Microsoft Learn (2024) as an APA reference with an illustrative screenshot (`power-bi-dashboard.png`).  
+- **Case Competition:** Added specifics about AI-driven supply chain optimization.  
+- **Independent Research:** Linked to BUSI 654 coursework.
+
+---
+
+## LLM-Generated Contact Section (Draft)
+
+**ChatGPT Output:**  
+Basic email and LinkedIn links.  
+
+**My Revision:**  
+I expanded this section to include GitHub, a downloadable resume, and an embedded Google Maps iframe showing the UCW campus location.
+
+---
+
+# References
+
+- Microsoft. (2024, November 18). *Introduction to dashboards for Power BI designers*. Microsoft Learn. https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards  
+- Project Gurukul. (2023). *Customer segmentation project using machine learning*. https://projectgurukul.org/customer-segmentation-project-machine-learning/  
+- Quarto Documentation. (n.d.). https://quarto.org  
+- OpenAI. (2025). *ChatGPT*. https://chat.openai.com  
+

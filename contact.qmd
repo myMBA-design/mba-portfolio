@@ -1,0 +1,33 @@
+---
+title: "Contact"
+---
+
+# Let's Connect
+
+Thank you for exploring my MBA portfolio. I am always open to discussing opportunities for collaboration, professional development, and applied projects in the field of **business analytics and AI strategy**.
+
+📧 Email: [Abhilash@email.com](mailto:Abhilash@email.com)  
+🔗 LinkedIn: [linkedin.com/in/abhilash](https://linkedin.com/in/abhilash)  
+💻 GitHub: [github.com/myMBA-design](https://github.com/myMBA-design)  
+
+---
+
+## Resume
+📄 [Download my full resume (PDF)](assets/Abhilash_Resume.pdf)
+
+---
+
+## Location
+I am currently based in **Vancouver, Canada**, and available for both **in-person and remote opportunities**.
+
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.395808174012!2d-123.13121962342943!3d49.275399271390734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486717ec62f49c5%3A0xd3ef87b1e81e0709!2sUniversity%20Canada%20West!5e0!3m2!1sen!2sca!4v1693515634671!5m2!1sen!2sca" 
+  width="100%" 
+  height="450" 
+  style="border:0; border-radius: 10px;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+Please feel free to reach out — I look forward to connecting!

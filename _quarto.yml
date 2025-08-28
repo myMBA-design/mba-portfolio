@@ -1,16 +1,23 @@
-output-dir: .
-
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Abhilash"
+  title: "Abhilash - MBA Portfolio"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Skills
+        href: skills.qmd
+      - text: Contact
+        href: contact.qmd
 
 format:
   html:
     theme: flatly
-    toc: false
+    css: styles.css

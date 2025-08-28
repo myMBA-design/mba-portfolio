@@ -1,0 +1,24 @@
+---
+title: "Skills"
+---
+
+# My Skills & Certifications
+
+## Technical Skills
+- **Programming & Analytics:** Python (pandas, NumPy, scikit-learn), SQL, R  
+- **Data Visualization:** Power BI, Tableau, Matplotlib  
+- **Machine Learning:** Supervised/Unsupervised learning, NLP, Generative AI tools (GPT APIs)  
+- **Productivity Tools:** Excel Modeling, Jupyter Notebooks, GitHub  
+
+## Business & Leadership Skills
+- Strategic Planning & Market Analysis  
+- Business Communication & Presentation  
+- Project Management (Agile methodologies)  
+- Leadership in Cross-Functional Teams  
+
+## Certifications
+- **Google Data Analytics Certificate** (2024)  
+- **AWS Cloud Practitioner** (2025)  
+- **Tableau Desktop Specialist** (expected 2026)  
+
+These skills reflect a balance between technical expertise in analytics and the strategic acumen required to apply AI-driven insights to business challenges.
