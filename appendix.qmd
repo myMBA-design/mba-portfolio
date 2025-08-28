@@ -1,0 +1,61 @@
+---
+title: "Appendix – MBA Portfolio Assignment"
+author: Alex Morgan
+format: pdf
+---
+
+# 1. LLM Prompt Used
+
+> "Create an outline and sample text for a one-page MBA student portfolio using Quarto and Markdown for a student in the 'Application of AI in Business' course at UCW."
+
+# 2. LLM-Generated Draft Output
+
+## Outline:
+
+1. Title + Name  
+2. About/Bio  
+3. Education  
+4. Professional Experience  
+5. Projects (optional)  
+6. Skills  
+7. Contact Info  
+
+## Sample Markdown:
+
+```
+# Jordan Lee - MBA Candidate
+
+## About Me  
+I’m a results-driven MBA candidate at XYZ Business School with a background in marketing and a passion for data-informed decision making.
+
+## Education  
+**XYZ Business School**  
+MBA, Expected 2026  
+
+**University of ABC**  
+BA in Communication, 2020
+
+## Experience  
+**Growth Strategy Intern – ABC Tech**  
+- Developed go-to-market strategy projected to increase revenue by 15%  
+- Conducted market research on three customer segments
+
+**Marketing Associate – DEF Goods**  
+- Led brand campaign, improving market share by 8%  
+- Managed cross-functional team
+
+## Skills  
+- Strategic Planning  
+- Tableau & Excel  
+- Business Development
+
+## Contact  
+📧 jordan.lee@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/jordanlee)
+```
+
+# 3. Reflection & Commentary
+
+I used ChatGPT to generate a structural outline and draft sample for my MBA portfolio assignment. This helped me brainstorm an efficient layout and content organization. I chose to keep the overall headings and general format but rewrote all the content using a fictional persona "Alex Morgan," an MBA student enrolled in BUSI 654.
+
+I modified company names, academic experiences, tools (like Power BI, GPT APIs), and tone to match a student working with AI applications in business. All content was checked for originality, tone, and accuracy. The Markdown formatting and Quarto rendering options were also adjusted for GitHub Pages compatibility.
